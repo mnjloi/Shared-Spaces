@@ -1,0 +1,91 @@
+──1000 - faly
+──Planets: 
+{
+───1000001 - kethramendu
+───Inhabitant: tidu
+}
+──Neighbors: thulva raizetro litrier 
+
+──1001 - litrier
+──Planets: 
+{
+───1001000 - tar
+───no inhabitants
+
+───1001002 - lulesi
+───Inhabitant: rire
+}
+──Neighbors: thulva faly faron faron 
+
+──1002 - raizetro
+──Planets: 
+{
+───1002000 - raizetro-1
+───no inhabitants
+
+───1002001 - raizetro-2
+───no inhabitants
+
+───1002002 - raizetro-3
+───no inhabitants
+}
+──Neighbors: faly ervi-148 he-222 
+
+──1003 - thulva
+──Planets: 
+{
+───1003000 - thulva-1
+───no inhabitants
+
+───1003001 - thulva-2
+───no inhabitants
+
+───1003002 - thulva-3
+───no inhabitants
+
+──Neighbors: faly litrier 
+
+──1004 - ervi-148
+──Planets: 
+
+───1004000 - ervi-148-1
+───no inhabitants
+}
+──Neighbors: raizetro 
+
+──1005 - faron
+──Planets: 
+{
+───1005000 - sa
+───no inhabitants
+
+───1005001 - coku
+───Inhabitant: rire
+
+───1005002 - bekonca
+───no inhabitants
+
+───1005003 - giis
+───no inhabitants
+
+───1005005 - garselpa
+───no inhabitants
+}
+──Neighbors: litrier litrier he-222 
+
+──1006 - he-222
+──Planets: 
+{
+───1006000 - he-222-1
+───no inhabitants
+
+───1006001 - he-222-2
+───no inhabitants
+
+───1006002 - he-222-3
+───no inhabitants
+
+───1006003 - he-222-4
+───no inhabitants
+}
+──Neighbors: faron raizetro 
