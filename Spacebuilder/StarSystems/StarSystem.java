@@ -3,7 +3,6 @@ package StarSystems;
 import DataTypes.Edge;
 import DataTypes.Graph;
 import DataTypes.Node;
-
 import java.util.List;
 import java.util.Random;
 

@@ -1,5 +1,3 @@
-import DataTypes.NameGen;
-
 import java.io.IOException;
 
 class main{

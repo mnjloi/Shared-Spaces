@@ -1,6 +1,5 @@
 import StarSystems.Culture;
 import StarSystems.StarSystem;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -33,6 +32,7 @@ public class Game {
             ssystem.tabPrint(1);
         }
     }
+
 
 
 }
